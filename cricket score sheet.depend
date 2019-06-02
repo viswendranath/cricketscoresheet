@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1504522298 source:c:\users\viswa\documents\c programs\cricket score sheet\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1508771150 source:c:\users\viswendranath\onedrive\c programs\cricket score sheet\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<Windows.h>
+	<string.h>
+
